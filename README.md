@@ -1,1 +1,1 @@
-# corn-disease-detection-yolov8
+# Hand Sign Detection YoloV11
